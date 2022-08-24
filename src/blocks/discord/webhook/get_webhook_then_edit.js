@@ -1,6 +1,6 @@
 import * as Blockly from "blockly/core";
 import BaseBlockly from "blockly";
-import { registerRestrictions } from "../../restrictions";
+import { registerRestrictions } from "../../../restrictions";
 
 const blockName = "s4d_get_edit_webhook";
   const BORDER_FIELDS = ["NAME", "AVATAR", "CHANNEL"];
