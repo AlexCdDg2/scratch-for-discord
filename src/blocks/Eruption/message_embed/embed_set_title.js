@@ -19,6 +19,7 @@ const blockData = {
       },
     ],
     "colour": "40BF4A",
+  "tooltip": "Set the title of an embed.",
     "previousStatement": null,
     "nextStatement": null,
     "helpUrl": ""
